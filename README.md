@@ -1,4 +1,4 @@
 # Customer_Attrition
-Customer Attrition in Telecom industry
+The project is related to predicting Customer Attrition in Telecom industry
 
 TCC - Raw Data
